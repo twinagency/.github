@@ -37,6 +37,24 @@ It talks like you, sells like you, and keeps every relationship warm while you c
 | **Multi-platform** | Telegram today, with more platforms connecting into the same CRM. |
 | **API** | Read-only data API for your own dashboards and tools. |
 
+## Our projects
+
+**Twin CRM.** The core platform: fans, conversations, content, sales, campaigns, earnings and payouts in one dashboard, for creators and whole agencies.
+
+**Twin AI.** The conversation engine behind every twin. It learns a creator's tone and personality, chats by text and voice, sends the right content at the right moment, and sells without being pushy. Prices and payments are controlled in code, never left to the AI.
+
+**T-Social.** A Telegram Mini App with a Reels-style feed and a Trending view, built to showcase our creators and send fans straight into the conversation.
+
+**FLIRT.** A creator platform where models sign up, upload their content and get an AI twin set up for them. [flirtw.me](https://flirtw.me)
+
+**Re-engagement.** Tools that bring past fans back with campaigns, bundles and drip offers, sent safely and measured per creator.
+
+**Payments.** Fans pay in Telegram Stars and TON, with every charge tracked and deduplicated so no sale is missed or double counted.
+
+**Posting tools.** Schedule stories and channel posts for every creator from one place.
+
+**More platforms.** We are connecting further platforms, including OnlyFans, into the same CRM.
+
 ## How it works
 
 1. **Tell us about you.** Style, limits and the content you want sold.
@@ -52,7 +70,8 @@ It talks like you, sells like you, and keeps every relationship warm while you c
 
 ## Work with us
 
-**Website:** [twintechnologies.co](https://twintechnologies.co/)
+**Website:** [twintechnologies.co](https://twintechnologies.co/)  
+**FLIRT:** [flirtw.me](https://flirtw.me)
 **Email:** [contact@twinagency.co](mailto:contact@twinagency.co)
 
 ---
