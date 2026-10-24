@@ -78,6 +78,7 @@ It talks like you, sells like you, and keeps every relationship warm while you c
 | **T-Social (Telegram Mini App)** | [t.me/TSocialAppBot](https://t.me/TSocialAppBot) |
 | **General email** | [contact@twinagency.co](mailto:contact@twinagency.co) |
 | **Ronan, co-founder** | [ronanyeats21@gmail.com](mailto:ronanyeats21@gmail.com) &middot; [Instagram @ronanyeats](https://instagram.com/ronanyeats) |
+| **Jesse, co-founder** | [jessemcinnes98@gmail.com](mailto:jessemcinnes98@gmail.com) |
 | **GitHub** | [github.com/twinagency](https://github.com/twinagency) |
 
 ## Work with us
