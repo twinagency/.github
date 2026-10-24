@@ -72,7 +72,8 @@ It talks like you, sells like you, and keeps every relationship warm while you c
 
 **Website:** [twintechnologies.co](https://twintechnologies.co/)  
 **FLIRT:** [flirtw.me](https://flirtw.me)
-**Email:** [contact@twinagency.co](mailto:contact@twinagency.co)
+**Email:** [contact@twinagency.co](mailto:contact@twinagency.co)  
+**Ronan:** [ronanyeats21@gmail.com](mailto:ronanyeats21@gmail.com)
 
 ---
 
