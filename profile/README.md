@@ -68,12 +68,23 @@ It talks like you, sells like you, and keeps every relationship warm while you c
 - **Agencies:** one operating system for your whole roster.
 - **Partners:** plug your audience into a platform that converts.
 
+## Links and contact
+
+| | |
+|---|---|
+| **Website** | [twintechnologies.co](https://twintechnologies.co/) |
+| **Twin Agency site** | [twinagency.co](https://twinagency.co) |
+| **FLIRT creator platform** | [flirtw.me](https://flirtw.me) |
+| **T-Social (Telegram Mini App)** | [t.me/TSocialAppBot](https://t.me/TSocialAppBot) |
+| **General email** | [contact@twinagency.co](mailto:contact@twinagency.co) |
+| **Ronan, co-founder** | [ronanyeats21@gmail.com](mailto:ronanyeats21@gmail.com) &middot; [Instagram @ronanyeats](https://instagram.com/ronanyeats) |
+| **GitHub** | [github.com/twinagency](https://github.com/twinagency) |
+
 ## Work with us
 
-**Website:** [twintechnologies.co](https://twintechnologies.co/)  
-**FLIRT:** [flirtw.me](https://flirtw.me)
-**Email:** [contact@twinagency.co](mailto:contact@twinagency.co)  
-**Ronan:** [ronanyeats21@gmail.com](mailto:ronanyeats21@gmail.com) &middot; [Instagram @ronanyeats](https://instagram.com/ronanyeats)
+- **Creators:** get your own AI twin.
+- **Agencies:** bring your roster and we run the twins.
+- **Partners and press:** get in touch using the links above.
 
 ---
 
