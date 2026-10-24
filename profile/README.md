@@ -1,72 +1,60 @@
 <p align="center">
-  <img src="twin-logo.png" alt="Twin." width="360">
+  <img src="twin-logo.png" alt="Twin." width="420">
 </p>
 
-<h3 align="center">AI companions for creators. Built to talk, built to sell.</h3>
+<h3 align="center">There's only one of you. Until now.</h3>
 
 <p align="center">
-  <b>Twin Technologies</b> &middot; private engineering org
+  AI voice and chat clones that keep your conversations going, in your voice, around the clock.
+</p>
+
+<p align="center">
+  <a href="https://twintechnologies.co/"><b>twintechnologies.co</b></a>
+  &nbsp;&middot;&nbsp;
+  <a href="mailto:contact@twinagency.co">contact@twinagency.co</a>
 </p>
 
 ---
 
-## What Twin is
+## What we do
 
-Twin runs a fleet of AI companion "clones" for creators. Each clone is a real Telegram account that chats with fans in the creator's voice, sends photos, videos and voice notes, and sells paid content and bundles for Telegram Stars (and TON).
+Twin builds an AI version of you. It learns your tone, your humour and your personality, then talks to your fans for you: replying to messages, sending voice notes, and unlocking paid photos, videos and voice content when fans want more.
 
-A creator signs up, fills in an onboarding form, uploads content, and gets a clone. We operate it. The creator keeps posting; the clone keeps the conversations going around the clock.
+You stay in control. Your clone is trained on you, follows your rules, and never goes off-brand.
 
-## How it fits together
-
-```
- fans  <--->  Telegram  <--->  twin-bot / V2 engine  <--->  Supabase
-                                     ^                         ^
- creators / agencies / operators --> twin-dashboard -----------+
-                                     |
-              twin-userbot (MTProto re-engagement)   t-social (Mini App + Lambda feed)
-                                     |
-                           twin-ops (deploy, backup, watchdog on AWS)
-```
-
-- **A clone is a database row.** No per-clone code paths, no per-clone deploys.
-- **Money is decided in code, never by the AI.** The model picks an action; prices, Star amounts and discounts are computed deterministically.
-- **Payment parity is sacred.** Every charge is deduplicated; never double credit, never miss one.
-- **Businesses first.** Clones reply only through the creator's Telegram Business connection.
-
-## Repositories
-
-| repo | what |
+| | |
 |---|---|
-| `twin-bot` | V1 Telegram bot runtime (grammY + TypeScript, `tsx`, no build step) |
-| `twin-sexbot` | V2 engine: the newer conversation and sales engine running most of the fleet |
-| `twin-dashboard` | Next.js operator, creator and agency dashboard, plus the admin and public APIs |
-| `twin-userbot` | MTProto userbot for fan re-engagement campaigns |
-| `twin-ops` | deploy, rollback, backup and watchdog scripts for the AWS boxes |
-| `twin-onlyfans-backend` | OnlyFans-side backend and runners |
-| `t-social` | T-Social Mini App (Reels and Trending) and its Lambda backend |
-| `twin-gptbot` | comparison bot used for A/B testing against our engines |
-| `twin-testbot` | texting test harness and reviewer |
-| `twin-tgaiclone` | process docs, bug/feature pipeline, Dial Doctor agent, tracker CLI |
+| **Your voice** | A clone built from how you actually talk and sound. Text and voice replies. |
+| **Always on** | Conversations keep going while you sleep, travel or create. |
+| **Earns for you** | Paid media, premium voice content, tips and bundles, all inside the chat. |
+| **Your rules** | You set the limits, the pricing and the content the clone can use. |
+| **Built for scale** | One platform runs many creators at once, each with their own clone. |
 
-Some repos may still live under personal accounts while the move into this org is finished.
+## How it works
 
-## Ground rules
+1. **Tell us about you.** A short onboarding: your style, boundaries and the content you want sold.
+2. **We build your twin.** Voice, personality and a content library, tuned to you.
+3. **It goes live.** Your twin chats with fans through Telegram while you keep posting.
+4. **You get paid.** Track earnings and fan activity from your own dashboard.
 
-1. **One Supabase project is live: `aouaenqayfltoqrmpitg`.** The old prod project is never touched.
-2. **Everything is private.** Repos, buckets and dashboards stay private unless the owners say otherwise.
-3. **One writer to the schema, one deployer at a time.**
-4. **Docs-only pushes do not deploy.** Only `.md`, `.txt` and `archive/` are exempt.
-5. **Verify before reporting.** A green typecheck is not proof; the check suites and a real conversation test are.
-6. **No secrets in git.** Keys live in env files and AWS, never in commits.
+## What we build
 
-## Deploys
+- **Conversation engines** that sound human and sell without being pushy.
+- **Creator and agency dashboards** with live earnings, fans, content and settings.
+- **Re-engagement tools** that bring past fans back to the conversation.
+- **Mini Apps** such as T-Social, a Reels-style feed for our creators.
+- **Payments** across Telegram Stars and TON.
 
-Push to `main` on `twin-bot` or `twin-dashboard` builds an image in GitHub Actions. The box pulls it by digest over AWS SSM. `twin-ops/deploy.sh --dry-run` is the manual fallback; run it before any real deploy.
+## Built with
 
-## Working here
+TypeScript, Next.js, Telegram Bot API and MTProto, Supabase (Postgres), AWS, and a mix of leading large language models.
 
-- Read the repo's own `README.md` and `CLAUDE.md` before editing.
-- Every fix ships a check. Plant the bug back and watch the check go red.
-- Simulations never write fan rows; negative Telegram ids mean simulation.
+## Work with us
 
-<p align="center"><sub>Twin. &copy; Twin Technologies</sub></p>
+- **Creators:** get your own AI twin.
+- **Agencies:** bring your roster, we run the clones.
+- **Partners and press:** talk to us.
+
+**[twintechnologies.co](https://twintechnologies.co/)** &middot; **contact@twinagency.co**
+
+<p align="center"><sub>Twin. &copy; Twin Technologies. Source code is private.</sub></p>
