@@ -2,10 +2,10 @@
   <img src="twin-logo.png" alt="Twin." width="420">
 </p>
 
-<h3 align="center">There's only one of you. Until now.</h3>
+<h3 align="center">The full CRM for creators and agencies.</h3>
 
 <p align="center">
-  AI voice and chat clones that keep your conversations going, in your voice, around the clock.
+  Run your fans, your content, your sales and your AI twin from one place.
 </p>
 
 <p align="center">
@@ -16,45 +16,45 @@
 
 ---
 
-## What we do
+## What Twin is
 
-Twin builds an AI version of you. It learns your tone, your humour and your personality, then talks to your fans for you: replying to messages, sending voice notes, and unlocking paid photos, videos and voice content when fans want more.
+Twin is a complete CRM built for creators and the agencies that manage them. Every fan, conversation, piece of content and dollar earned lives in one system, and an AI version of you works it around the clock.
 
-You stay in control. Your clone is trained on you, follows your rules, and never goes off-brand.
+It talks like you, sells like you, and keeps every relationship warm while you create.
+
+## Everything in one platform
 
 | | |
 |---|---|
-| **Your voice** | A clone built from how you actually talk and sound. Text and voice replies. |
-| **Always on** | Conversations keep going while you sleep, travel or create. |
-| **Earns for you** | Paid media, premium voice content, tips and bundles, all inside the chat. |
-| **Your rules** | You set the limits, the pricing and the content the clone can use. |
-| **Built for scale** | One platform runs many creators at once, each with their own clone. |
+| **Fans and CRM** | Every fan profile, history, spend and status. Segments, notes and who to re-engage next. |
+| **AI twin** | A clone of your voice and personality that chats, sends voice replies and keeps conversations going 24/7. |
+| **Sales** | Paid photos, videos, voice content, bundles and tips, sold inside the conversation. |
+| **Content library** | Upload once, organise, price and deliver. Previews, bundles and catalogues. |
+| **Campaigns** | Re-engagement and broadcast tools that bring past fans back. |
+| **Earnings and payouts** | Live revenue, per-creator reporting and payout tracking. |
+| **Agency tools** | Run a whole roster: many creators, partner portals, permissions and cuts. |
+| **Your rules** | You set limits, pricing and content. Controls for every behaviour. |
+| **Multi-platform** | Telegram today, with more platforms connecting into the same CRM. |
+| **API** | Read-only data API for your own dashboards and tools. |
 
 ## How it works
 
-1. **Tell us about you.** A short onboarding: your style, boundaries and the content you want sold.
-2. **We build your twin.** Voice, personality and a content library, tuned to you.
-3. **It goes live.** Your twin chats with fans through Telegram while you keep posting.
-4. **You get paid.** Track earnings and fan activity from your own dashboard.
+1. **Tell us about you.** Style, limits and the content you want sold.
+2. **We build your twin.** Voice, personality and a content library tuned to you.
+3. **Go live.** Your twin chats with fans while you keep posting.
+4. **Run it from one dashboard.** Fans, chats, sales and earnings in real time.
 
-## What we build
+## Who it is for
 
-- **Conversation engines** that sound human and sell without being pushy.
-- **Creator and agency dashboards** with live earnings, fans, content and settings.
-- **Re-engagement tools** that bring past fans back to the conversation.
-- **Mini Apps** such as T-Social, a Reels-style feed for our creators.
-- **Payments** across Telegram Stars and TON.
-
-## Built with
-
-TypeScript, Next.js, Telegram Bot API and MTProto, Supabase (Postgres), AWS, and a mix of leading large language models.
+- **Creators:** more income from the fans you already have, without being online all day.
+- **Agencies:** one operating system for your whole roster.
+- **Partners:** plug your audience into a platform that converts.
 
 ## Work with us
 
-- **Creators:** get your own AI twin.
-- **Agencies:** bring your roster, we run the clones.
-- **Partners and press:** talk to us.
+**Website:** [twintechnologies.co](https://twintechnologies.co/)
+**Email:** [contact@twinagency.co](mailto:contact@twinagency.co)
 
-**[twintechnologies.co](https://twintechnologies.co/)** &middot; **contact@twinagency.co**
+---
 
-<p align="center"><sub>Twin. &copy; Twin Technologies. Source code is private.</sub></p>
+<sub>This page is public and contains no source code. Twin. &copy; Twin Technologies.</sub>
